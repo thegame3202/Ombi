@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.Extensions.PlatformAbstractions": "1.1.0",
+    "Microsoft.Data.Sqlite": "1.1.0",
+    "Dapper": "1.50.2",
+    "NETStandard.Library": "1.6.1",
+    "Dapper.Contrib": "1.50.0",
+    "Newtonsoft.Json": "9.0.2-beta1",
+    "Ombi.Helpers": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
